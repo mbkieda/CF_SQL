@@ -1,2 +1,2 @@
 # CF_SQL
-SQL queries from CF data analytics bootcamp
+This repository contains SQL queries I created while working through the CareerFoundry Data Analytics bootcamp.
